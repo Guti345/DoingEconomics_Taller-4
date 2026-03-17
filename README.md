@@ -1,2 +1,2 @@
 # DoingEconomics_Taller-4
-Aqui se trabajar el Taller #4 acerca de Collecting Data from experiments
+Aqui se trabajar el Taller #4 Grupo B acerca de Collecting Data from experiments
